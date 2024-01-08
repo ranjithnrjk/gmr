@@ -21,5 +21,3 @@ def cosine_sim(
     if magnitude1 == 0 or magnitude2 == 0:
         return 0
     return dot_product / (magnitude1 * magnitude2)
-
-print(cosine_sim([1, 2, 3], [4, 5, 6]))
