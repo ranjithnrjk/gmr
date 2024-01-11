@@ -1,0 +1,6 @@
+outs:
+- md5: 0d20c461f572d34145581866f68499b3
+  size: 2459038
+  isexec: true
+  hash: md5
+  path: Archive.zip
